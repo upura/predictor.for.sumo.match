@@ -1,14 +1,11 @@
 Deep Learning Hackathon
 ====
-
-2016年11月実施のDeep Learning Hackathonのソースコードをまとめています。
+Implemantation of predictor of sumo fight result of final day by results of 1-14 days. These are the archivements of Deep Learning Hackathon held in Nov, 2016.
 
 ## Description & Demo
-
-下記リンクを参照のこと。
+See the following lisk.
 
 http://upura.hatenablog.com/entry/2016/11/27/000642
 
 ## Requirement
-
 - R
